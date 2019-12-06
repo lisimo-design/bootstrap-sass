@@ -1,0 +1,35 @@
+.navbar {
+  background-color: cornflowerblue;
+}
+
+.jumbotron {
+  height: 400px;
+}
+
+.main {
+  display: flex;
+}
+
+.main img {
+  display: flex;
+  width: auto;
+  height: 100px;
+}
+
+.main #left {
+  border: 1px solid red;
+  margin: 10px;
+  width: 50px;
+  height: 200px;
+  flex: 1 1 auto;
+}
+
+.main #right {
+  border: 1px solid red;
+  margin: 10px;
+  width: 50px;
+  height: 200px;
+  flex: 1 1 auto;
+}
+
+/*# sourceMappingURL=main.css.map */
